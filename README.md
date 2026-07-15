@@ -11,7 +11,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 I’m an engineering student passionate about building impactful digital experiences.
-- 💡 I love exploring web & app development, UI/UX design, and the limitless world of artificial intelligence.
+- 💡 I love exploring web & app development, UI/UX design, and Game Development.
 - 👗 Creator of <a href="https://github.com/Uzma90/AI-Fashion-Stylist" target="_blank">AI Fashion Stylist</a> – blending tech with style!
 - 📚 When I’m not coding, you’ll find me reading, watching movies, or enjoying a good TV show.
 
@@ -26,7 +26,7 @@
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=222)
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
-  ![AI/ML](https://img.shields.io/badge/-AI/ML-007ACC?style=flat-square&logo=ai&logoColor=fff)
+ 
 
 ---
 
