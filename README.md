@@ -1,7 +1,7 @@
 # Uzma
 
 <h1 align="center" style="font-family: Arial, sans-serif;">Welcome to My Profile</h1>
-
+![Profile views](https://komarev.com/ghpvc/?username=Uzma90&label=Profile%20views&color=0e75b6&style=flat)
 <br>
 
 > Hi, I'm **Uzma**. Thanks for visiting my profile!
