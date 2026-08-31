@@ -37,12 +37,12 @@ Step into my tech universe! Here's the array of technologies I've explored and w
 | 1 | <img src="https://cdn.simpleicons.org/mysql/grey" width="20"> | MySQL | Language | ★★★★☆ |
 | 2 | <img src="https://cdn.simpleicons.org/python/grey" width="20"> | Python | Language | ★★★★☆ |
 | 3 | <img src="https://cdn.simpleicons.org/html5/grey" width="20"> | HTML | Language | ★★★★★ |
-| 4 | <img src="https://cdn.simpleicons.org/css3/grey" width="20"> | CSS | Language | ★★★★☆ |
+| 4 | <img src="https://cdn.simpleicons.org/css/grey" width="20"> | CSS | Language | ★★★★☆ |
 | 5 | <img src="https://cdn.simpleicons.org/react/grey" width="20"> | React | Framework | ★★★★☆ |
 | 6 | <img src="https://cdn.simpleicons.org/flutter/grey" width="20"> | Flutter | Tool | ★★★☆☆ |
-| 7 | <img src="https://cdn.simpleicons.org/pygame/grey" width="20"> | Pygame | Framework | ★★★☆☆ |
+| 7 | <img src="https://cdn.simpleicons.org/pyscaffold/grey" width="20"> | Pygame | Framework | ★★★☆☆ |
 | 8 | <img src="https://cdn.simpleicons.org/flask/grey" width="20"> | Flask | Framework | ★★★★☆ |
-| 9 | <img src="https://cdn.simpleicons.org/electronjs/grey" width="20"> | ElectronJS | Framework | ★★☆☆☆ |
+| 9 | <img src="https://cdn.simpleicons.org/electron/grey" width="20"> | ElectronJS | Framework | ★★☆☆☆ |
 | 10 | <img src="https://cdn.simpleicons.org/git/grey" width="20"> | Git & GitHub | Tools | ★★★★☆ |
 
 </div>
