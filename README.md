@@ -8,6 +8,20 @@
 
 I'm a developer with a passion for creating impactful solutions and contributing to meaningful projects. I focus on writing clean, efficient code and building applications that make a difference.
 
+---
+
+<h1 align="center" style="font-family: Arial, sans-serif;">GitHub Stats</h1>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Uzma90&theme=dark)
+
+</div>
+
+---
+
+<h1 align="center" style="font-family: Arial, sans-serif;">Contribution Snake</h1>
+
 ![snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
